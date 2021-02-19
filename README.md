@@ -2,9 +2,9 @@
 
 
 - :telescope: Actualmente me encuentro desarrollando el proyecto "FabulasRealesRP"
-- 🤖 Soy un autodidacta, llevo desde los 7 años con un teclado en los dedos y cada dia aprendo algo nuevo
-- 🌐 Pagina Web y Portofolio: https://flathill70.es
-- 📭 Discord: FlatHill70#6670
+- 🤖 Soy un autodidacta, llevo desde los 7 años con un teclado en los dedos y me apasiona cada dia aprender algo nuevo
+<!--- 🌐 Pagina Web y Portfolio: https://flathill70.es/-->	
+- 📭 Contacto: FlatHill70#6670 o info@flathill70.es
 
 ## :zap: Tecnologías
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
