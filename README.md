@@ -1,4 +1,4 @@
-# Hey,soy Flat.
+# Hey, soy Flat.
 
 
 - :telescope: Actualmente me encuentro desarrollando el proyecto "FabulasRealesRP"
@@ -24,8 +24,8 @@
   <img align="center" alt="GitHub Stats apolo-sys" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlatHill70&locale=es&count_private=true&theme=dark&layout=compact&hide_title=trueinclude_all_commits=true&langs_count=10"/>
 </a>
 <a href="https://github.com/FlatHill70">
-  <img align="center" alt="GitHub Stats apolo-sys" src="https://github-readme-stats.vercel.app/api?username=apolo-sys&show_icons=true&theme=dark&locale=en&count_private=true&hide_title=trueinclude_all_commits=true"/>
+  <img align="center" alt="GitHub Stats apolo-sys" src="https://github-readme-stats.vercel.app/api?username=FlatHill70&show_icons=true&theme=dark&locale=en&count_private=true&hide_title=trueinclude_all_commits=true"/>
 </a>
 <a href="https://github.com/FlatHill70">
-  <img align="center" alt="GitHub Stats apolo-sys" src="https://github-readme-stats.vercel.app/api/wakatime?username=FlatHill70&custom_title=Actividad%20de%FlatHill70%20 (7 dias)"/>
+  <img align="center" alt="GitHub Stats FlatHill70" src="https://github-readme-stats.vercel.app/api/wakatime?username=FlatHill70&custom_title=Actividad%20de%FlatHill70%20 (7 dias)"/>
 </a>
