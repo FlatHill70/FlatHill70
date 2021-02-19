@@ -1,8 +1,8 @@
 # Hey,soy Flat.
 
 
-- :telescope: Actualmente me encuentro desarrollando el proyecto "WaveRoleplay"
-- :watch: Soy un autodidacta, y 
+- :telescope: Actualmente me encuentro desarrollando el proyecto "FabulasRealesRP"
+- 🤖 Soy un autodidacta, llevo desde los 7 años con un teclado en los dedos y cada dia aprendo algo nuevo
 - 🌐 Pagina Web y Portofolio: https://flathill70.es
 - 📭 Discord: FlatHill70#6670
 
@@ -12,7 +12,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Flexbox](https://img.shields.io/badge/-Flexbox-pink?style=flat-square&logo=css3)
-
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
