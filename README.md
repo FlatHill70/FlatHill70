@@ -1,8 +1,8 @@
 # Hey, soy Flat.
 
 
-- :telescope: Actualmente me encuentro desarrollando el proyecto ElectrumHosting 
-- 🤖 Soy un autodidacta, llevo desde los 7 años con un teclado en los dedos y me apasiona cada dia aprender algo nuevo
+- :telescope: Actualmente me encuentro trabajando en mi portfolio
+- 🤖 Soy un autodidacta, tengo 13 años y llevo desde los 7 años con un teclado en los dedos ¡Me apasiona cada dia aprender algo nuevo!
 <!--- 🌐 Pagina Web y Portfolio: https://flathill70.es/-->	
 - 📭 Contacto: FlatHill70#6670 o info@flathill70.es
 
