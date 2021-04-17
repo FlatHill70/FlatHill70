@@ -19,10 +19,6 @@
 
 ## 📊Mi trayectoria por Github
 
+![](https://github-readme-stats.vercel.app/api?username=saviomartin&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
-<a href="https://github.com/FlatHill70">
-  <img align="center" alt="GitHub Stats apolo-sys" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlatHill70&locale=es&count_private=true&theme=dark&layout=compact&hide_title=trueinclude_all_commits=true&langs_count=10"/>
-</a>
-<a href="https://github.com/FlatHill70">
-  <img align="center" alt="GitHub Stats apolo-sys" src="https://github-readme-stats.vercel.app/api?username=FlatHill70&show_icons=true&theme=dark&locale=en&count_private=true&hide_title=trueinclude_all_commits=true"/>
-</a>
+
