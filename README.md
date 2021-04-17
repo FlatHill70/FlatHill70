@@ -14,8 +14,9 @@
 ![TailWind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-484c89?style=484c89?style=for-the-badge&logo=php&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=black))
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Azure](https://img.shields.io/badge/Azure_Cloud-cyan?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## 📊Mi trayectoria por Github
 
