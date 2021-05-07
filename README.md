@@ -2,7 +2,7 @@
 
 
 - :telescope: Actualmente me encuentro trabajando en mi portfolio
-- 🤖 Soy un autodidacta, tengo 13 años y llevo desde los 7 años con un teclado en los dedos ¡Me apasiona cada dia aprender algo nuevo!
+- 🤖 Soy un autodidacta, tengo 14 años y llevo desde los 7 años con un teclado en los dedos ¡Me apasiona cada dia aprender algo nuevo!
 <!--- 🌐 Pagina Web y Portfolio: https://flathill70.es/-->	
 - 📭 Contacto: FlatHill70#6670 o info@flathill70.es
 
