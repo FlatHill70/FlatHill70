@@ -1,4 +1,4 @@
-# Hey, i'm Flat. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# <h1 align="center" Hey, i'm Flat. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 - 👯 Currently working on [Global Hosting]  (https://discord.gg/HfdswqpZFU)</p>
