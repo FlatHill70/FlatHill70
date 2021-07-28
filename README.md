@@ -1,4 +1,4 @@
-# Hey,i'm Guillem. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey, I'm Guillem. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 - 👯 Currently working on [Global Hosting]  (https://discord.gg/HfdswqpZFU)</p>
