@@ -17,7 +17,7 @@
 ![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git)
 ![Azure](https://img.shields.io/badge/Azure_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## 📊My trajectory on Github
+## 📊My path on Github
 
 ![](https://github-readme-stats.vercel.app/api?username=flathill70&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
