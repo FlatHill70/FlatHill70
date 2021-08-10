@@ -4,6 +4,7 @@
 - 👯 Currently working on [Global Hosting]  (https://discord.gg/HfdswqpZFU)</p>
 - 🤖 I'm self-taught, I'm 14 years old and I've had a keyboard in my fingers since I was 7 years old. I'm passionate about learning something new every day!
 <!--- 🌐 Pagina Web y Portfolio: https://flathill70.es/-->	
+- 🤠 Learning Docker and Traeefik
 - 📭 Contact: FlatHill70#6670 or info@flathill70.es
 
 ## :rocket: Technologies
