@@ -3,7 +3,7 @@
 
 - 🤖 I'm self-taught, and I've had a keyboard in my fingers since I was 7 years old. I'm passionate about learning something new every day!
 <!--- 🌐 Pagina Web y Portfolio: https://flathill70.es/-->	
-- 🎧 Working on https://remixtrack.app
+- 🎧 Working on https://remixtrack.app and AVIZOR AI
 - 📭 Contact: info@flathill70.es
 
 ## 🚀 Technologies
