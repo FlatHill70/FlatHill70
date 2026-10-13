@@ -24,7 +24,7 @@
 
 | Project | What it is | Scope |
 |---|---|---|
-| **[AVIZOR](https://avizorsec.com)** | Automated vulnerability remediation with human validation. Always watching, never without your permission. *Coming soon.* | `Vulnerability management` `Asset inventory` `Server monitoring` `Approval workflows` `Edge` |
+| **[AVIZOR](https://avizorsec.com)** | Automated vulnerability remediation with human validation. Always watching, never without your permission. *In development: An educational project I use to learn security hands-on.* | `Vulnerability management` `Asset inventory` `Server monitoring` `Approval workflows` `Edge` |
 | **[RemixTrack](https://remixtrack.app)** | Audio watermarking for record pools. Imperceptible watermarks, instant leak detection, WooCommerce integration. | `Infra` `Containers` `Observability` `Release automation` `Object storage` `Audio forensics` |
 | **[GRAIN Studio](https://grain-studio.net)** | Custom web design and development studio in Barcelona. Sites for artists, brands and businesses that don't want a template. | `Hosting & deploys` `CI/CD` `Containers` `Lead generation` `SEO` |
 | **[phish-lens](https://github.com/espi0207/phish-lens)** | Email phishing detection that explains every verdict: Lookalike domains, SPF/DKIM/DMARC, hidden links. 100% local. With [@espi0207](https://github.com/espi0207). | `Email security` `SPF / DKIM / DMARC` `Browser extension` `Open source` |
