@@ -2,8 +2,9 @@
 
 <p align="left">
   Self-taught sysadmin with a keyboard under my fingers since I was seven.<br>
-  I keep systems running, secure and observable: Containers, deploys, monitoring, CI/CD and email security.<br>
-  I also build the tools that run on top of them, and I try to learn something new every day.
+  I keep systems running and observable: Containers, deploys, monitoring and CI/CD.<br>
+  I also build the tools that run on top of them, and I try to learn something new every day.<br>
+  Right now I'm getting into cybersecurity. Still at the very beginning, learning as I go.
 </p>
 
 <p align="left">
