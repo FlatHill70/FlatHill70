@@ -1,24 +1,48 @@
-# Hey, I'm Guillem. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="left">Hey, I'm Guillem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></h1>
 
+<p align="left">
+  Self-taught sysadmin with a keyboard under my fingers since I was seven.<br>
+  I keep systems running, secure and observable: Containers, deploys, monitoring, CI/CD and email security.<br>
+  I also build the tools that run on top of them, and I try to learn something new every day.
+</p>
 
-- 🤖 I'm self-taught, and I've had a keyboard in my fingers since I was 7 years old. I'm passionate about learning something new every day!
-<!--- 🌐 Pagina Web y Portfolio: https://flathill70.es/-->	
-- 🎧 Working on https://remixtrack.app and AVIZOR AI
-- 📭 Contact: info@flathill70.es
+<p align="left">
+  <b>AI is part of how I operate, not a toy.</b> I run <a href="https://code.claude.com">Claude Code</a> as a daily ops partner:
+  Custom agents and skills, hooks, MCP servers wired into my infra, and Claude reviewing pull requests in CI.
+  It does the heavy lifting; I keep the judgment and the final say.
+</p>
 
-## 🚀 Technologies
+<p align="left">
+  <a href="https://flathill70.es"><img src="https://img.shields.io/badge/flathill70.es-coming_soon-111111?style=flat-square&labelColor=111111&color=555555" alt="flathill70.es (coming soon)"></a>
+  <a href="mailto:info@flathill70.es"><img src="https://img.shields.io/badge/info@flathill70.es-111111?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
-## 📊My path on Github
+### Currently running
 
-![](https://github-readme-stats.vercel.app/api?username=flathill70&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+| Project | What it is | Scope |
+|---|---|---|
+| **[AVIZOR](https://avizorsec.com)** | Automated vulnerability remediation with human validation. Always watching, never without your permission. *Coming soon.* | `Vulnerability management` `Asset inventory` `Server monitoring` `Approval workflows` `Edge` |
+| **[RemixTrack](https://remixtrack.app)** | Audio watermarking for record pools. Imperceptible watermarks, instant leak detection, WooCommerce integration. | `Infra` `Containers` `Observability` `Release automation` `Object storage` `Audio forensics` |
+| **[GRAIN Studio](https://grain-studio.net)** | Custom web design and development studio in Barcelona. Sites for artists, brands and businesses that don't want a template. | `Hosting & deploys` `CI/CD` `Containers` `Lead generation` `SEO` |
+| **[phish-lens](https://github.com/espi0207/phish-lens)** | Email phishing detection that explains every verdict: Lookalike domains, SPF/DKIM/DMARC, hidden links. 100% local. With [@espi0207](https://github.com/espi0207). | `Email security` `SPF / DKIM / DMARC` `Browser extension` `Open source` |
+| **[Coach](https://github.com/FlatHill70/coach-ai)** | Open-source strength and nutrition coach that lives in Claude Code. Programs, stall detection, self-adjusting macros. | `AI agents` `Claude Code plugin` `CI & releases` `Open source` |
 
+### Stack
 
+| Area | Tools |
+|---|---|
+| **Infra & cloud** | <img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,vercel" height="40" alt="Linux, Docker, Cloudflare, Vercel"> |
+| **Observability** | <img src="https://skillicons.dev/icons?i=grafana,prometheus" height="40" alt="Grafana, Prometheus"> |
+| **CI/CD** | <img src="https://skillicons.dev/icons?i=githubactions,git" height="40" alt="GitHub Actions, Git"> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" height="40" alt="PostgreSQL, MySQL, Supabase"> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,py" height="40" alt="Node.js, Python"> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="40" alt="React, Next.js, Tailwind"> <img src="https://skillicons.dev/icons?i=ts,js,html,css" height="40" alt="TypeScript, JavaScript, HTML, CSS"> |
+| **AI** | <img src="assets/claude.svg" height="40" alt="Claude"> |
+
+### On GitHub
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=FlatHill70&theme=transparent&hide_border=true&ring=888888&fire=888888&currStreakLabel=888888&sideLabels=888888&currStreakNum=888888&sideNums=888888&dates=888888" alt="GitHub contribution streak">
+</p>
