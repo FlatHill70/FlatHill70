@@ -43,5 +43,5 @@
 ### On GitHub
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=FlatHill70&theme=transparent&hide_border=true&ring=888888&fire=888888&currStreakLabel=888888&sideLabels=888888&currStreakNum=888888&sideNums=888888&dates=888888" alt="GitHub contribution streak">
+  <img src="assets/stats.svg" alt="GitHub contributions">
 </p>
