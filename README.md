@@ -33,7 +33,7 @@
 | Area | Tools |
 |---|---|
 | **Infra & cloud** | <img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,vercel" height="40" alt="Linux, Docker, Cloudflare, Vercel"> |
-| **Observability** | <img src="https://skillicons.dev/icons?i=grafana,prometheus" height="40" alt="Grafana, Prometheus"> |
+| **Observability** | <img src="https://skillicons.dev/icons?i=grafana,prometheus,sentry" height="40" alt="Grafana, Prometheus, Sentry"> |
 | **CI/CD** | <img src="https://skillicons.dev/icons?i=githubactions,git" height="40" alt="GitHub Actions, Git"> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" height="40" alt="PostgreSQL, MySQL, Supabase"> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,py" height="40" alt="Node.js, Python"> |
