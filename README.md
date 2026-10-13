@@ -2,7 +2,7 @@
 
 <p align="left">
   Self-taught sysadmin with a keyboard under my fingers since I was seven.<br>
-  I keep systems running and observable: Containers, deploys, monitoring and CI/CD.<br>
+  I deploy and look after my own projects: Hosting, monitoring and CI/CD.<br>
   I also build the tools that run on top of them, and I try to learn something new every day.<br>
   Right now I'm getting into cybersecurity. Still at the very beginning, learning as I go.
 </p>
@@ -18,15 +18,15 @@
 
 ---
 
-### Currently running
+### Projects
 
 | Project | What it is | Scope |
 |---|---|---|
-| **[AVIZOR](https://avizorsec.com)** | Automated vulnerability remediation with human validation. Always watching, never without your permission. *In development: An educational project I use to learn security hands-on.* | `Vulnerability management` `Asset inventory` `Server monitoring` `Approval workflows` `Edge` |
-| **[RemixTrack](https://remixtrack.app)** | Audio watermarking for record pools. Imperceptible watermarks, instant leak detection, WooCommerce integration. | `Infra` `Containers` `Observability` `Release automation` `Object storage` `Audio forensics` |
-| **[GRAIN Studio](https://grain-studio.net)** | Custom web design and development studio in Barcelona. Sites for artists, brands and businesses that don't want a template. | `Hosting & deploys` `CI/CD` `Containers` `Lead generation` `SEO` |
+| **[AVIZOR](https://avizorsec.com)** | Detects vulnerabilities in servers and containers. AI will propose the fixes, a second model will review them and a human gives the final yes. Final project for my ASIX degree (cybersecurity track). *In development, runs locally for now.* | `AI remediation` `Asset inventory` `Server & container monitoring` `Organizations & roles` `Docker lab` |
+| **[RemixTrack](https://remixtrack.app)** | Audio watermarking for record pools. Imperceptible watermarks, instant leak detection, WooCommerce integration. | `Vercel + Supabase` `Serverless engine on Modal` `Cloudflare R2` `Sentry & Grafana` `Plugin release automation` `Audio forensics` |
+| **[GRAIN Studio](https://grain-studio.net)** | Custom web design and development studio in Barcelona. Sites for artists, brands and businesses that don't want a template. | `Vercel` `CI checks (HTML, links, secrets)` `AI code review` `Outreach CRM` `SEO` |
 | **[phish-lens](https://github.com/espi0207/phish-lens)** | Email phishing detection that explains every verdict: Lookalike domains, SPF/DKIM/DMARC, hidden links. 100% local. With [@espi0207](https://github.com/espi0207). | `Email security` `SPF / DKIM / DMARC` `Browser extension` `Open source` |
-| **[Coach](https://github.com/FlatHill70/coach-ai)** | Open-source strength and nutrition coach that lives in Claude Code. Programs, stall detection, self-adjusting macros. | `AI agents` `Claude Code plugin` `CI & releases` `Open source` |
+| **[Coach](https://github.com/FlatHill70/coach-ai)** | Open-source strength and nutrition coach that lives in Claude Code. Programs, stall detection, self-adjusting macros. | `Claude Code plugin` `Health data import` `CI & release-please` `Open source` |
 
 ### Stack
 
