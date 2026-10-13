@@ -8,9 +8,7 @@
 </p>
 
 <p align="left">
-  <b>AI is part of how I operate, not a toy.</b> I run <a href="https://code.claude.com">Claude Code</a> as a daily ops partner:
-  Custom agents and skills, hooks, MCP servers wired into my infra, and Claude reviewing pull requests in CI.
-  It does the heavy lifting; I keep the judgment and the final say.
+  <b>AI is part of how I work.</b> <a href="https://code.claude.com">Claude Code</a> is my daily ops partner, wired into my infra and CI.
 </p>
 
 <p align="left">
