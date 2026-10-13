@@ -22,7 +22,7 @@
 
 | Project | What it is | Scope |
 |---|---|---|
-| **[AVIZOR](https://avizorsec.com)** | Detects vulnerabilities in servers and containers. AI will propose the fixes, a second model will review them and a human gives the final yes. Final project for my ASIX degree (cybersecurity track). *In development, runs locally for now.* | `AI remediation` `Asset inventory` `Server & container monitoring` `Organizations & roles` `Docker lab` |
+| **[AVIZOR](https://avizorsec.com)** | Detects vulnerabilities in servers and containers. AI will propose the fixes, a second model will review them and a human gives the final yes. Final project for my ASIX degree (cybersecurity track). *In development, runs locally for now.* | `AI remediation` `Asset inventory` `Server & container monitoring` `Organizations & roles` `Docker` `Ansible (Planned)` |
 | **[RemixTrack](https://remixtrack.app)** | Audio watermarking for record pools. Imperceptible watermarks, instant leak detection, WooCommerce integration. | `Vercel + Supabase` `Serverless engine on Modal` `Cloudflare R2` `Sentry & Grafana` `Plugin release automation` `Audio forensics` |
 | **[GRAIN Studio](https://grain-studio.net)** | Custom web design and development studio in Barcelona. Sites for artists, brands and businesses that don't want a template. | `Vercel` `CI checks (HTML, links, secrets)` `AI code review` `Outreach CRM` `SEO` |
 | **[phish-lens](https://github.com/espi0207/phish-lens)** | Email phishing detection that explains every verdict: Lookalike domains, SPF/DKIM/DMARC, hidden links. 100% local. With [@espi0207](https://github.com/espi0207). | `Email security` `SPF / DKIM / DMARC` `Browser extension` `Open source` |
